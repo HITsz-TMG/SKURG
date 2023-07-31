@@ -6,7 +6,7 @@ This repository contains the source code necessary to reproduce the results pres
 Multi-modal Multi-hop Question Answering via Structured Knowledge and Unified Retrieval-Generation".
 The research focuses on improving multi-modal multi-hop question answering through the use of structured knowledge and a
 unified retrieval-generation approach.
-![avatar](intro.png)
+<img src="intro.png" style="width: 40%;">
 
 ![avatar](model.png)
 
