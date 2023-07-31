@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the source code necessary to reproduce the results presented in the paper titled "Enhancing
+This repository contains the source code necessary to reproduce the results presented in our ACM MM 2023 paper titled "Enhancing
 Multi-modal Multi-hop Question Answering via Structured Knowledge and Unified Retrieval-Generation".
 The research focuses on improving multi-modal multi-hop question answering through the use of structured knowledge and a
 unified retrieval-generation approach.
