@@ -19,7 +19,7 @@ download these datasets from the following sources:
 - [MultimodalQA](https://github.com/allenai/multimodalqa)
 - [WebQA](https://github.com/WebQnA/WebQA).
 
-Our model is based on two pre-trained models: OFA-[OFA-base](https://huggingface.co/OFA-Sys/ofa-base)
+Our model is based on two pre-trained models: [OFA-base](https://huggingface.co/OFA-Sys/ofa-base)
 and [BART-base](https://huggingface.co/facebook/bart-base). Please download these models and update the following
 parameters in the code to their respective paths:
 Please download these models and update the following parameters in the code to their respective paths:
