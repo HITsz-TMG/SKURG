@@ -203,3 +203,6 @@ The code was developed and tested with the following framework versions:
 }
 ```
 
+## License
+
+This repository respects to Apache License 2.0.
