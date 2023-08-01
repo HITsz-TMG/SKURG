@@ -191,3 +191,15 @@ The code was developed and tested with the following framework versions:
 
 * Pytorch 1.7.1+cu110
 * Transformers 4.18.0
+
+## Citation
+
+```
+@article{yang2022enhancing,
+  title={Enhancing Multi-modal and Multi-hop Question Answering via Structured Knowledge and Unified Retrieval-Generation},
+  author={Yang, Qian and Chen, Qian and Wang, Wen and Hu, Baotian and Zhang, Min},
+  journal={arXiv preprint arXiv:2212.08632},
+  year={2022}
+}
+```
+
