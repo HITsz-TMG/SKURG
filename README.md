@@ -183,7 +183,7 @@ The output results, including generated answers and predicted evidence, for both
 can be downloaded from
 the [Google Drive](https://drive.google.com/drive/folders/15hwQNY3O4yeSJFvDT8CrxihdIpX6EQlf?usp=sharing).
 Please note that the results in the paper may not identically correspond to the results in the provided links above, as
-multiple models were trained, and one randomly picked model was used to present the qualitative results in the paper.
+multiple models were trained, and we used the average score to present the qualitative results in the paper.
 
 ## Framework versions
 
