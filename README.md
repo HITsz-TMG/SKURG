@@ -196,11 +196,18 @@ The code was developed and tested with the following framework versions:
 ## Citation
 
 ```
-@article{yang2022enhancing,
-  title={Enhancing Multi-modal and Multi-hop Question Answering via Structured Knowledge and Unified Retrieval-Generation},
-  author={Yang, Qian and Chen, Qian and Wang, Wen and Hu, Baotian and Zhang, Min},
-  journal={arXiv preprint arXiv:2212.08632},
-  year={2022}
+@inproceedings{10.1145/3581783.3611964,
+author = {Yang, Qian and Chen, Qian and Wang, Wen and Hu, Baotian and Zhang, Min},
+title = {Enhancing Multi-Modal Multi-Hop Question Answering via Structured Knowledge and Unified Retrieval-Generation},
+year = {2023},
+isbn = {9798400701085},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {5223–5234},
+numpages = {12},
+location = {Ottawa ON, Canada},
+series = {MM '23}
 }
 ```
 
